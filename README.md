@@ -1,4 +1,4 @@
-## Olá! Eu sou Bruno, Seja Bem-Vindo
+## Olá! Eu sou Bruno, Seja Bem-Vindo!
 
 - 🔭 Atualmente estou no início do meu cruso de graduação em Ciência da Computação.
 - 🌱 Estou aprendendo HTML5, CSS3, JavaScript, Git e Github.
