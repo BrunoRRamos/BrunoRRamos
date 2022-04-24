@@ -1,7 +1,7 @@
 ## Olá! Eu sou Bruno, Seja Bem-Vindo!
 
 - 🔭 Atualmente estou no início do meu cruso de graduação em Ciência da Computação.
-- 🌱 Estou aprendendo HTML5, CSS3, JavaScript, Git e Github.
+- 🌱 Estou aprendendo HTML5, CSS3, JavaScript, Python, Git e Github.
 
 <div align="center">
   <a href="https://github.com/rBrunoRRamos">
