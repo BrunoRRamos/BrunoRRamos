@@ -1,6 +1,7 @@
 ## Hello! I'm Bruno, Welcome To My Profile!
 
 - 🌱 Now I'm Learning: JavaScript, NodeJs, TypeScript and MongoDB.
+- 🚀 Training To Be a BackEnd Developer.
 
 <div align="center">
   <a href="https://github.com/rBrunoRRamos">
