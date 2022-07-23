@@ -1,4 +1,4 @@
-## Hello! i'm Bruno, Welcome To My Profile!
+## Hello! I'm Bruno, Welcome To My Profile!
 
 - 🌱 Now I'm Learning: JavaScript, NodeJs, TypeScript and MongoDB.
 
