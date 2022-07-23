@@ -1,7 +1,6 @@
-## Olá! Eu sou Bruno, Seja Bem-Vindo!
+## Hello! i'm Bruno, Welcome To My Profile!
 
-- 🔭 Atualmente estou no início do meu cruso de graduação em Ciência da Computação.
-- 🌱 Estou aprendendo JavaScript, NodeJs, TypeScript, MongoDB.
+- 🌱 Now I'm Learning: JavaScript, NodeJs, TypeScript and MongoDB.
 
 <div align="center">
   <a href="https://github.com/rBrunoRRamos">
