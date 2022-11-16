@@ -1,6 +1,6 @@
 ## Hello! I'm Bruno, Welcome To My Profile!
 
-- 🌱 Now I'm Learning: JavaScript and Java.
+- 🌱 Now I'm Learning: JavaScript, NodeJs and Java.
 - 🚀 Training to be a BackEnd Developer.
 
 <div align="center">
