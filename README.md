@@ -1,8 +1,5 @@
 ## Hello! I'm Bruno, Welcome To My Profile!
 
-- 🌱 Now I'm Learning: JavaScript, NodeJs and Java.
-- 🚀 Training to become a Full Stack Developer.
-
 <div align="center">
   <a href="https://github.com/rBrunoRRamos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrunoRRamos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
