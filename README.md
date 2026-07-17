@@ -1,8 +1,15 @@
-## Hello! I'm Bruno, Welcome To My Profile!
+# Hi, I'm Bruno Ramos 👋
+
+Software Engineer focused on backend development with **Java/Spring Boot**
+and **TypeScript/Node.js**. Computer Science @ UFCG (Federal University of
+Campina Grande, Brazil).
+
+- 💼 Interested in: Backend & Platform Engineering, distributed systems
+- 📫 Reach me: [email] · [LinkedIn](link-correto)
+
+**Stack:** Java · Spring Boot · TypeScript · Node.js · React · PostgreSQL · Docker · AWS
 
 <div align="center">
-  <a href="https://github.com/BrunoRRamos">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrunoRRamos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
 </div>
   <div style="display: inline_block"><br>
@@ -22,5 +29,5 @@
  ##
   
 <div> 
-  <a href = "mailto:bruno.ramos@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:brbosshd2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-rodrigues-ramos-83250522a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
