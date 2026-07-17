@@ -5,7 +5,6 @@ and **TypeScript/Node.js**. Computer Science @ UFCG (Federal University of
 Campina Grande, Brazil).
 
 - 💼 Interested in: Backend & Platform Engineering, distributed systems
-- 📫 Reach me: [email] · [LinkedIn](link-correto)
 
 **Stack:** Java · Spring Boot · TypeScript · Node.js · React · PostgreSQL · Docker · AWS
 
